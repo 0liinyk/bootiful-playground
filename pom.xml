@@ -110,14 +110,14 @@
 						<image>openjdk:8-jre-alpine</image>
 					</from>
 					<to>
-						<image>bootiful-play</image>
+						<image>yaoliinyk/bootiful-play</image>
 					</to>
 				</configuration>
 				<executions>
 					<execution>
 						<phase>package</phase>
 						<goals>
-							<goal>dockerBuild</goal>
+							<goal>build</goal>
 						</goals>
 					</execution>
 				</executions>
