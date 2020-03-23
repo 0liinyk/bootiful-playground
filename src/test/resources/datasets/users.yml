@@ -1,0 +1,7 @@
+users:
+  - id: 2
+    last_name: "tester"
+    first_name: "tester"
+  - id: 3
+    last_name: "actuator"
+    first_name: "actuator"
